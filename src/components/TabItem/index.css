@@ -1,0 +1,20 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+.bord-botm {
+  background-color: transparent;
+  border: none;
+  border-bottom: 2px solid grey;
+  /*text-decoration: solid underline grey 2px;*/
+  margin: 0;
+}
+.tab-item-cont {
+  margin: 0;
+
+  /*border-bottom: 2px solid grey;*/
+}
+.blue {
+  border-bottom: 2px solid blue;
+  margin-bottom: 5px;
+}

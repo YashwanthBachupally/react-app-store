@@ -1,0 +1,20 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+.app-img {
+  height: 90px;
+  width: 90px;
+}
+.app-items-cont {
+  background-color: white;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10px;
+  padding: 20px;
+}
+p {
+  text-align: center;
+}
